@@ -1,2 +1,2 @@
-# calculadora-de-descontos
+# calculadora de descontos
 Calculadora de Descontos
